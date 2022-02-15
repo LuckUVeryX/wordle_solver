@@ -10,3 +10,6 @@ A Wordle Clone made using Flutter
 - [ ] Game Instructions
 - [ ] Optimal Wordle Solver using Infomation Theory (Inspired by 3Blue1Brown)
 - [ ] Share to Socials
+
+## Screenshots
+![Screen1](/screenshots/screen1.jpg?raw=true "Game Screen")
